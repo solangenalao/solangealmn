@@ -1,6 +1,7 @@
-# 👋 Hello world! Welcome to my Github profile.
- I`m Solange!
- I`m passionate to code and interface design.
+# 👋 Hello world! I'm Solange!
+
+Welcome to my Github profile.
+I'm passionate to code and interface design.
 
 - 🔭 I’m currently working on react apps
 - 🌱 I’m currently learning Go
