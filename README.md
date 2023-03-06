@@ -1,9 +1,9 @@
 # 👋 Hello world! Welcome to my Github profile.
 ## I`m Solange, all my friends and family call me Sol!
-# I`m passionate to code and interface design.
+ I`m passionate to code and interface design.
 
-🔭 I’m currently working on react apps
-🌱 I’m currently learning Go
+- 🔭 I’m currently working on react apps
+- 🌱 I’m currently learning Go
 - 📫 How to reach me: solangealmn@gmail.com
 - 😄 Pronouns: she/her
 
