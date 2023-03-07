@@ -1,7 +1,7 @@
 # 👋 Hello world! I'm Solange!
 
 Welcome to my Github profile.
-I'm passionate to code and interface design.
+I am a Front-end Developer who graduated from Multimedia Production. I am passionate about books, games, tabletop RPG (D&D) and dark chocolate.
 
 - 🔭 I’m currently working on react apps
 - 🌱 I’m currently learning Go
