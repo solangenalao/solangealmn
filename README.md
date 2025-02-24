@@ -3,9 +3,7 @@
 Welcome to my GitHub profile.  
 I am a Front-end Developer with a background in Multimedia Production. Currently, I'm finishing my postgraduate studies in Software Engineering (expected completion: April 2025) at the USP/Esalq.
 
-- 🔭 I’m currently working on building web apps using React.
-- 🌱 I’m currently learning Python 🐍.
-- 😄 Pronouns: she/her
+🔭 I’m currently working on building web apps using React.<br>👨🏼‍💻 working as a front-end developer since 2018<br>🌱 I’m currently learning Python 🐍.<br>😄 Pronouns: she/her<br>
 
 ## ⚡️ Where to find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/solangenalao) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/solangealmn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:solangealmn@gmail.com)
